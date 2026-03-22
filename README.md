@@ -10,11 +10,15 @@ Since GitHub doesn't believe in folders, I've created an "organization" to keep 
 <pre>
 📦 <a href="https://github.com/Starkiller2000Space-Projects">Starkiller2000Space-Projects</a>
 ├── 🐍 <a href="https://github.com/orgs/Starkiller2000Space-Projects/teams/python">Python</a>
-│   ├── 📚 <a href="https://github.com/orgs/Starkiller2000Space-Projects/teams/libraries">Libraries</a>
-│   │   └── 📝 <a href="https://github.com/Starkiller2000Space-Projects/Readme-Generator">Readme-Generator</a>
-│   └── 🛠️ <a href="https://github.com/orgs/Starkiller2000Space-Projects/teams/services">Services</a>
+│   ├── 📚 <a href="https://github.com/orgs/Starkiller2000Space-Projects/teams/python-libraries">Python-Libraries</a>
+│   │   ├── 📝 <a href="https://github.com/Starkiller2000Space-Projects/fulldoc">fulldoc</a>
+│   │   └── 📝 <a href="https://github.com/Starkiller2000Space-Projects/kafka-python">kafka-python</a>  (contributing)
+│   └── 🛠️ <a href="https://github.com/orgs/Starkiller2000Space-Projects/teams/python-services">Python-Services</a>
+├── 🦫 <a href="https://github.com/orgs/Starkiller2000Space-Projects/teams/go">Go</a>
+│   └── 🛠️ <a href="https://github.com/orgs/Starkiller2000Space-Projects/teams/go-services">Go-Services</a>
+│       └── 📝 <a href="https://github.com/Starkiller2000Space-Projects/shortener">shortener</a>
 └── 📱 <a href="https://github.com/orgs/Starkiller2000Space-Projects/teams/kotlin">Kotlin</a>
-    └── 📲 <a href="https://github.com/orgs/Starkiller2000Space-Projects/teams/android-apps">AndroidApps</a>
+    └── 📲 <a href="https://github.com/orgs/Starkiller2000Space-Projects/teams/kotlin-android-apps">Kotlin-Android Apps</a>
         └── 🏦 <a href="https://github.com/Starkiller2000Space-Projects/TinkoffApp">TinkoffApp</a>
 </pre>
 
@@ -43,7 +47,7 @@ You might notice my GitHub looks like the Outer Rim — a bit quiet and abandone
 🐍 Python • 🌐 Django • ⚡ FastAPI • 🧪 Selenium • 🤖 RPA • 🐘 PostgreSQL • 🐳 Docker • 🐧 Linux • 🌿 Git • 🔧 Bash • 🧪 Unittest
 
 **Learning:**  
-📱 Kotlin (ask me about my "Hello World" app – it's revolutionary) • 🧠 Algorithms & Data Structures
+Go • 📱 Kotlin (ask me about my "Hello World" app – it's revolutionary) • 🧠 Algorithms & Data Structures
 
 **Also familiar with:**  
 ⚙️ CI/CD • 🌐 Nginx • 📦 Redis • ⏱️ Celery • 🔐 JWT • 📱 Telegram Bot API • 🔎 Elasticsearch • 🖥️ C# • 📝 Markdown • 🗃️ SQLite • 📄 HTML/CSS • 🛠️ Groovy • 📈 Data Analysis
