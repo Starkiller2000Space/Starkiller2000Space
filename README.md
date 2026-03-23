@@ -47,7 +47,7 @@ You might notice my GitHub looks like the Outer Rim — a bit quiet and abandone
 🐍 Python • 🌐 Django • ⚡ FastAPI • 🧪 Selenium • 🤖 RPA • 🐘 PostgreSQL • 🐳 Docker • 🐧 Linux • 🌿 Git • 🔧 Bash • 🧪 Unittest
 
 **Learning:**  
-Go • 📱 Kotlin (ask me about my "Hello World" app – it's revolutionary) • 🧠 Algorithms & Data Structures
+🦫 Go • 📱 Kotlin (ask me about my "Hello World" app – it's revolutionary) • 🧠 Algorithms & Data Structures
 
 **Also familiar with:**  
 ⚙️ CI/CD • 🌐 Nginx • 📦 Redis • ⏱️ Celery • 🔐 JWT • 📱 Telegram Bot API • 🔎 Elasticsearch • 🖥️ C# • 📝 Markdown • 🗃️ SQLite • 📄 HTML/CSS • 🛠️ Groovy • 📈 Data Analysis
