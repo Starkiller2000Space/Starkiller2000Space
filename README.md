@@ -13,9 +13,14 @@ Since GitHub doesn't believe in folders, I've created an "organization" to keep 
 │   ├── 📚 <a href="https://github.com/orgs/Starkiller2000Space-Projects/teams/python-libraries">Python-Libraries</a>
 │   │   ├── 📝 <a href="https://github.com/Starkiller2000Space-Projects/fulldoc">fulldoc</a>
 │   │   └── 📝 <a href="https://github.com/Starkiller2000Space-Projects/kafka-python">kafka-python</a>  (contributing)
-│   └── 🛠️ <a href="https://github.com/orgs/Starkiller2000Space-Projects/teams/python-services">Python-Services</a>
+│   ├── 🛠️ <a href="https://github.com/orgs/Starkiller2000Space-Projects/teams/python-services">Python-Services</a>
+│   │   ├── <a href="https://github.com/orgs/Starkiller2000Space-Projects/teams/python-services-fastapi">Python-Services-FastAPI</a>
+│   │   │   └── 📝 <a href="https://github.com/Starkiller2000Space-Projects/url_shortener">url_shortener</a>
+│   │   └── <a href="https://github.com/orgs/Starkiller2000Space-Projects/teams/python-services-django">Python-Services-Django</a>
+│   └── 📜 <a href="https://github.com/orgs/Starkiller2000Space-Projects/teams/python-scripts">Python-Scripts</a>
+│       └── 📝 <a href="https://github.com/Starkiller2000Space-Projects/pathfinding">pathfinding</a>
 ├── 🦫 <a href="https://github.com/orgs/Starkiller2000Space-Projects/teams/go">Go</a>
-│   └── 🛠️ <a href="https://github.com/orgs/Starkiller2000Space-Projects/teams/go-services">Go-Services</a>
+│   └── ⚙️ <a href="https://github.com/orgs/Starkiller2000Space-Projects/teams/go-services">Go-Services</a>
 │       └── 📝 <a href="https://github.com/Starkiller2000Space-Projects/shortener">shortener</a>
 └── 📱 <a href="https://github.com/orgs/Starkiller2000Space-Projects/teams/kotlin">Kotlin</a>
     └── 📲 <a href="https://github.com/orgs/Starkiller2000Space-Projects/teams/kotlin-android-apps">Kotlin-Android Apps</a>
