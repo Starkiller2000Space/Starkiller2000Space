@@ -8,23 +8,28 @@
 Since GitHub doesn't believe in folders, I've created an "organization" to keep my projects tidy. It's like a filing cabinet. Here's the current structure:
 
 <pre>
-📦 <a href="https://github.com/Starkiller2000Space-Projects">Starkiller2000Space-Projects</a>
-├── 🐍 <a href="https://github.com/orgs/Starkiller2000Space-Projects/teams/python">Python</a>
-│   ├── 📚 <a href="https://github.com/orgs/Starkiller2000Space-Projects/teams/python-libraries">Python-Libraries</a>
-│   │   ├── 📝 <a href="https://github.com/Starkiller2000Space-Projects/fulldoc">fulldoc</a>
-│   │   └── 📝 <a href="https://github.com/Starkiller2000Space-Projects/kafka-python">kafka-python</a>  (contributing)
-│   ├── 🛠️ <a href="https://github.com/orgs/Starkiller2000Space-Projects/teams/python-services">Python-Services</a>
-│   │   ├── <a href="https://github.com/orgs/Starkiller2000Space-Projects/teams/python-services-fastapi">Python-Services-FastAPI</a>
-│   │   │   └── 📝 <a href="https://github.com/Starkiller2000Space-Projects/url_shortener">url_shortener</a>
-│   │   └── <a href="https://github.com/orgs/Starkiller2000Space-Projects/teams/python-services-django">Python-Services-Django</a>
-│   └── 📜 <a href="https://github.com/orgs/Starkiller2000Space-Projects/teams/python-scripts">Python-Scripts</a>
-│       └── 📝 <a href="https://github.com/Starkiller2000Space-Projects/pathfinding">pathfinding</a>
-├── 🦫 <a href="https://github.com/orgs/Starkiller2000Space-Projects/teams/go">Go</a>
-│   └── ⚙️ <a href="https://github.com/orgs/Starkiller2000Space-Projects/teams/go-services">Go-Services</a>
-│       └── 📝 <a href="https://github.com/Starkiller2000Space-Projects/shortener">shortener</a>
-└── 📱 <a href="https://github.com/orgs/Starkiller2000Space-Projects/teams/kotlin">Kotlin</a>
-    └── 📲 <a href="https://github.com/orgs/Starkiller2000Space-Projects/teams/kotlin-android-apps">Kotlin-Android Apps</a>
-        └── 🏦 <a href="https://github.com/Starkiller2000Space-Projects/TinkoffApp">TinkoffApp</a>
+📦 <a href="https://github.com/max-marek-projects">max-marek-projects</a>
+│
+├── 🚀 <a href="https://github.com/orgs/max-marek-projects/teams/services">services</a>
+│   ├── 🐍 <a href="https://github.com/orgs/max-marek-projects/teams/services-python">services/python</a>
+│   │   ├── ⚡ <a href="https://github.com/orgs/max-marek-projects/teams/services-python-fastapi">services/python/fastapi</a>
+│   │   │   └── 📝 <a href="https://github.com/max-marek-projects/url_shortener">url_shortener</a>
+│   │   └── 🎸 <a href="https://github.com/orgs/max-marek-projects/teams/services-python-django">services/python/django</a>
+│   └── 🦫 <a href="https://github.com/orgs/max-marek-projects/teams/services-go">services/go</a>
+│       └── 📝 <a href="https://github.com/max-marek-projects/shortener">shortener</a>
+│
+├── 📱 <a href="https://github.com/orgs/max-marek-projects/teams/apps">apps</a>
+│   └── 🤖 <a href="https://github.com/orgs/max-marek-projects/teams/apps-android">apps/android</a>
+│       └── 🧩 <a href="https://github.com/orgs/max-marek-projects/teams/apps-android-kotlin">apps/android/kotlin</a>
+│           └── 📝 <a href="https://github.com/max-marek-projects/TinkoffApp">TinkoffApp</a>
+│
+├── 📚 <a href="https://github.com/orgs/max-marek-projects/teams/libraries">libraries</a>
+│   └── 🐍 <a href="https://github.com/orgs/max-marek-projects/teams/libraries-python">libraries/python</a>
+│       └── 📝 <a href="https://github.com/max-marek-projects/fulldoc">fulldoc</a>
+│
+└── 📜 <a href="https://github.com/orgs/max-marek-projects/teams/scripts">scripts</a>
+    └── 🐍 <a href="https://github.com/orgs/max-marek-projects/teams/scripts-python">scripts/python</a>
+        └── 📝 <a href="https://github.com/max-marek-projects/pathfinding">pathfinding</a>
 </pre>
 
 Feel free to explore
@@ -63,11 +68,17 @@ You might notice my GitHub looks like the Outer Rim — a bit quiet and abandone
 
 ---
 
-## 📫 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/maksim-ermoshin-python-developer)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/Starkiller2000Space)  
-[![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat&logo=gitlab)](https://gitlab.com/Starkiller2000Space)  
-📧 Email: maksim_ermoshin@mail.ru
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ermaks-backend/)
+
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/max-marek)
+
+[![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat&logo=gitlab)](https://gitlab.com/max-marek)
+
+[![Telegram](https://img.shields.io/badge/Telegram-%40Kugo_louis-blue?style=for-the-badge&logo=telegram)](https://t.me/Kugo_louis)
+
+📧 Email: maksim.ermoshin2000@gmail.com, maksim_ermoshin@mail.ru
 
 ---
 
