@@ -26,6 +26,11 @@ Since GitHub doesn't believe in folders, I've created an "organization" to keep 
 ├── 📚 <a href="https://github.com/orgs/max-marek-projects/teams/libraries">libraries</a>
 │   └── 🐍 <a href="https://github.com/orgs/max-marek-projects/teams/libraries-python">libraries/python</a>
 │       └── 📝 <a href="https://github.com/max-marek-projects/fulldoc">fulldoc</a>
+|
+├── 🤖 <a href="https://github.com/orgs/max-marek-projects/teams/bots">bots</a>
+│   └── 🐍 <a href="https://github.com/orgs/max-marek-projects/teams/bots-telegram">bots/telegram</a>
+|       └── 📝 <a href="https://github.com/max-marek-projects/teams/bots-telegram-python">bots/telegram/python</a>
+│           └── 📝 <a href="https://github.com/max-marek-projects/hw_notifier">hw_notifier</a>
 │
 └── 📜 <a href="https://github.com/orgs/max-marek-projects/teams/scripts">scripts</a>
     └── 🐍 <a href="https://github.com/orgs/max-marek-projects/teams/scripts-python">scripts/python</a>
